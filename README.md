@@ -1,0 +1,2 @@
+# gobang
+first project gobang
